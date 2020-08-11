@@ -1,10 +1,10 @@
 # 삼성 대화시스템 실습과제
 
-0. 환경세팅
+## 환경세팅
 
 (a) ConvLab과 함께 repository를 clone해옵니다.
 ```
-git clone --recurse-submodules https://github.com/tzs930/samsung_dialogue_tutorial.git
+git clone --recurse-submodules https://github.com/jeonggwanlee/samsung_ds_practice.git
 ```
 (b) Anaconda Environment를 생성합니다.
 ```
@@ -20,10 +20,11 @@ pip install -e ./ConvLab-2
 ```
 
 -----------
+## 실습과제
 
 `practice_problem.ipynb` 파일을 완성하는 것이 이 과제의 목표입니다. 
 
-**\[실습문제]** Success Rate를 기준으로 상위 3가지 모델을 찾고, 아래 표를 완성하세요.
+**\[실습과제]** Success Rate를 기준으로 상위 3가지 모델을 찾고, 아래 표를 완성하세요.
 
 **\[힌트]** 여러 개의 system agent를 만들고 아래의 코드를 활용해 한번에 돌리실 수 있습니다.
 
