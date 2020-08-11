@@ -31,6 +31,6 @@ pip install -e ./ConvLab-2
 
 Rank      | NLU       | DST       | Policy    | NLG          | Success rate | Book rate | Inform P | Inform R | Inform F1 | Turn(succ/all) |
 --------- | --------- | --------- | --------- | :----------: | :----------: | --------- | -------- | --------- | -------- | -------------- |
-1         | Content   | Content   | Content   | Content      | Content      | Content   | Content  | Content   | Content  | Content        |
-2         | Content   | Content   | Content   | Content      | Content      | Content   | Content  | Content   | Content  | Content        |
-3         | Content   | Content   | Content   | Content      | Content      | Content   | Content  | Content   | Content  | Content        |
+1         | -         | -         | -         | -            | -            | -         | -        | -         | -        | -              |
+2         | -         | -         | -         | -            | -            | -         | -        | -         | -        | -              |
+3         | -         | -         | -         | -            | -            | -         | -        | -         | -        | -              |
