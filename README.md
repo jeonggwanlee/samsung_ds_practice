@@ -21,5 +21,16 @@ pip install -e ./ConvLab-2
 
 -----------
 
-1. 실습문제
-`practice_problem.ipynb` 파일을 완성하는 것이 이 실습의 목표입니다.
+`practice_problem.ipynb` 파일을 완성하는 것이 이 과제의 목표입니다. 
+
+**\[실습문제]** Success Rate를 기준으로 상위 3가지 모델을 찾고, 아래 표를 완성하세요.
+
+**\[힌트]** 여러 개의 system agent를 만들고 아래의 코드를 활용해 한번에 돌리실 수 있습니다.
+
+**\[주의]**  실습과제 제출시 실행기록을 반드시 남겨서 제출해야 합니다.
+
+Rank      | NLU       | DST       | Policy    | NLG          | Success rate | Book rate | Inform P | Inform R | Inform F1 | Turn(succ/all) |
+--------- | --------- | --------- | --------- | :----------: | :----------: | --------- | -------- | --------- | -------- | -------------- |
+1         | Content   | Content   | Content   | Content      | Content      | Content   | Content  | Content   | Content  | Content        |
+2         | Content   | Content   | Content   | Content      | Content      | Content   | Content  | Content   | Content  | Content        |
+3         | Content   | Content   | Content   | Content      | Content      | Content   | Content  | Content   | Content  | Content        |
